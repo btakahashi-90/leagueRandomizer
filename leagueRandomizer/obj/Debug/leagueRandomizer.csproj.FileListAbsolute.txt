@@ -1,0 +1,7 @@
+D:\projects\leagueRandomizer\leagueRandomizer\bin\Debug\leagueRandomizer.exe.config
+D:\projects\leagueRandomizer\leagueRandomizer\bin\Debug\leagueRandomizer.exe
+D:\projects\leagueRandomizer\leagueRandomizer\bin\Debug\leagueRandomizer.pdb
+D:\projects\leagueRandomizer\leagueRandomizer\obj\Debug\leagueRandomizer.csprojResolveAssemblyReference.cache
+D:\projects\leagueRandomizer\leagueRandomizer\obj\Debug\leagueRandomizer.csproj.CoreCompileInputs.cache
+D:\projects\leagueRandomizer\leagueRandomizer\obj\Debug\leagueRandomizer.exe
+D:\projects\leagueRandomizer\leagueRandomizer\obj\Debug\leagueRandomizer.pdb
